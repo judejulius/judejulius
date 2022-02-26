@@ -31,6 +31,6 @@ Hi, I'm Jude Julius, a Full Stack Developer 🚀 from Cape Town, Working on smal
 
 
 
-![Jude's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+![Jude's github stats]
 
 ⭐️ From [Jude Julius](https://github.com/judejulius)
