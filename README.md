@@ -1,12 +1,12 @@
-### Hey 👋🏽, I'm [Jude](http://jude-vue-project.web.app/#/) 
+### Hey 👋🏽, I'm [Mohammad Joud](http://jude-vue-project.web.app/#/) 
 
-<a href="linkedin.com/in/jude-julius-a56299212">
+<a href="[linkedin.com/in/mohammad-joud-julius-a56299212](https://www.linkedin.com/in/mohammad-joud-julius-a56299212/)">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Jude Julius, a Full Stack Developer 🚀 from Cape Town, Working on small projects utilizing pure Javascript and currently looking for employment. Beside's programming, I enjoy eating food and spending time with family.
+Hi, I'm Mohammad Joud Julius, a Full Stack Developer 🚀 from Cape Town, Working on small projects utilizing pure Javascript and currently looking for employment. Beside's programming, I enjoy eating food and spending time with family.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -31,4 +31,4 @@ Hi, I'm Jude Julius, a Full Stack Developer 🚀 from Cape Town, Working on smal
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-⭐️ From [Jude Julius](https://github.com/judejulius)
+⭐️ From [Mohammad Joud Julius](https://github.com/judejulius)
