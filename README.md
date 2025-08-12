@@ -6,13 +6,13 @@
 <br />
 <br />
 
-Hi, I'm Mohammad Joud Julius, a Full Stack Developer 🚀 from Cape Town, Working on small projects utilizing pure Javascript and currently looking for employment. Beside's programming, I enjoy eating food and spending time with family.
+Hi, I'm Mohammad Joud Julius, a AI And Automations Developer 🚀 from Cape Town, Working on small projects utilizing pure Javascript and currently looking for employment. Beside's programming, I enjoy eating food and spending time with family.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Python; 
+- 🌱 I’m currently learning Neuronetworks to solve realworld problems; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I enjoy playing warzone and playing soccer
 - 📫 How to reach me: judejulius12@gmail.com;
@@ -32,3 +32,4 @@ Hi, I'm Mohammad Joud Julius, a Full Stack Developer 🚀 from Cape Town, Workin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ⭐️ From [Mohammad Joud Julius](https://github.com/judejulius)
+
