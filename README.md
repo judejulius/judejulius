@@ -63,26 +63,6 @@ A local-first Android and web app that tracks income, debit orders, recurring ex
 
 **[View >>](https://github.com/judejulius/expense_app)**
 
----
-
-### Agent Orchestration
-**Multi-agent systems, and the question of how much judgment to hand over**
-
-My current focus: autonomous agents with tool use and hand-off logic between specialists. Getting an agent to act is straightforward. Deciding how far it goes before a human is back in the loop is the actual engineering problem.
-
-- **Tool-using agents** — LLMs wired to real functions, not just chat
-- **Hand-off logic** — routing work between specialist agents
-- **Human-in-the-loop gates** — explicit checkpoints where judgment is expensive to get wrong
-- **Evaluation first** — an agent that can't be measured can't be trusted with anything real
-
-**Tech stack:** Python, LangChain, LLM integrations, FastAPI
-
-
-### Collaborations
-Backend and feature work alongside other developers: [Team-Blog](https://github.com/yaasien-s/Team-Blog), [LCS-Blog](https://github.com/Arden007/LCS-Blog), and a [POS system](https://github.com/fatimamahlaba/POS).
-
----
-
 ## The Pipeline
 
 Each stage in the banner is a real part of how I work, not a slide.
