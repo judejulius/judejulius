@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Mohammad Joud Julius — AI &amp; Automation Engineer, Cape Town. Animated schematic of a production AI pipeline: Data, Model, Eval, API, App, Deploy, Monitor.">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#16303f" stroke-width="1"></path>
+    </pattern>
+    <linearGradient id="wire" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6FA8C9"></stop>
+      <stop offset="0.6" stop-color="#6FA8C9"></stop>
+      <stop offset="1" stop-color="#E8963C"></stop>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#E8963C" stop-opacity="0.9"></stop>
+      <stop offset="1" stop-color="#E8963C" stop-opacity="0"></stop>
+    </radialGradient>
+    <path id="chain" d="M72 268 H1128"></path>
+    
+  </defs>
+
+  <rect width="1200" height="360" fill="#0B1A24"></rect>
+  <rect width="1200" height="360" fill="url(#grid)" opacity="0.5"></rect>
+
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="72" y="88" fill="#F4F8FA" font-size="44" font-weight="700" letter-spacing="-0.6">Mohammad Joud Julius</text>
+    <text x="72" y="128" fill="#E8963C" font-size="20" font-weight="600" letter-spacing="3.4">AI &amp; AUTOMATION ENGINEER</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+      <text x="72" y="164" fill="#8AA4B2" letter-spacing="0.3">Cape Town · systems built to run, not to demo<tspan class="cursor" fill="#E8963C" dx="6">█</tspan></text>
+    </g>
+  </g>
+
+  <g>
+    <line x1="72" y1="268" x2="1128" y2="268" stroke="url(#wire)" stroke-width="2" opacity="0.45"></line>
+
+    <g class="pulse">
+      <circle cx="144" cy="268" r="18" fill="url(#glow)"></circle>
+      <circle cx="144" cy="268" r="4.5" fill="#FFD9A8"></circle>
+    </g>
+    <g class="pulse p2">
+      <circle cx="144" cy="268" r="18" fill="url(#glow)"></circle>
+      <circle cx="144" cy="268" r="4.5" fill="#FFD9A8"></circle>
+    </g>
+    <g class="pulse p3">
+      <circle cx="144" cy="268" r="18" fill="url(#glow)"></circle>
+      <circle cx="144" cy="268" r="4.5" fill="#FFD9A8"></circle>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" text-anchor="middle">
+      <rect class="node n1" x="79" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
+      <text class="lbl n1" x="144" y="273">DATA</text>
+      <rect class="node n2" x="231" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
+      <text class="lbl n2" x="296" y="273">MODEL</text>
+      <rect class="node n3" x="383" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
+      <text class="lbl n3" x="448" y="273">EVAL</text>
+      <rect class="node n4" x="535" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
+      <text class="lbl n4" x="600" y="273">API</text>
+      <rect class="node n5" x="687" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
+      <text class="lbl n5" x="752" y="273">APP</text>
+      <rect class="node n6" x="839" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
+      <text class="lbl n6" x="904" y="273">DEPLOY</text>
+      <rect class="node n7" x="991" y="242" width="130" height="52" rx="6" fill="#12222B" stroke="#E8963C" stroke-width="1.5"></rect>
+      <text x="1056" y="273" fill="#E8963C">MONITOR</text>
+    </g>
+
+    <path class="loop" d="M1056 242 L1056 214 L144 214 L144 236" fill="none" stroke="#E8963C" stroke-width="1.5" opacity="0.7"></path>
+    <path d="M144 236 l-5 -8 h10 z" fill="#E8963C" opacity="0.85"></path>
+    <text x="600" y="206" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#E8963C" opacity="0.75" letter-spacing="1.6">FEEDBACK LOOP</text>
+  </g>
+
+  <text x="72" y="330" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#5C7885" letter-spacing="1.3">TENSORFLOW · KERAS · RL · LANGCHAIN · FASTAPI · REACT · TYPESCRIPT · POSTGRES · DOCKER</text>
+</svg>
