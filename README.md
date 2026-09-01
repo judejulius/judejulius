@@ -77,20 +77,6 @@ My current focus: autonomous agents with tool use and hand-off logic between spe
 
 **Tech stack:** Python, LangChain, LLM integrations, FastAPI
 
-*Private while it's in progress — happy to walk through the architecture.*
-
----
-
-### joudjulius.co.za
-**Portfolio, built and maintained like a product**
-
-My own site in React and TypeScript. Deployed, monitored, and actually kept up to date — which is the whole point of the way I work.
-
-**Tech stack:** React, TypeScript, Vite
-
-**[View >>](https://www.joudjulius.co.za/)**
-
----
 
 ### Collaborations
 Backend and feature work alongside other developers: [Team-Blog](https://github.com/yaasien-s/Team-Blog), [LCS-Blog](https://github.com/Arden007/LCS-Blog), and a [POS system](https://github.com/fatimamahlaba/POS).
