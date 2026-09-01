@@ -1,84 +1,102 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=200&section=header&text=Mohammad%20Joud%20Julius&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Automation%20Developer%20%C2%B7%20Full-Stack%20Builder&descAlignY=62&descSize=18" />
 
-# Mohammad Joud Julius
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Building+AI-powered+systems;Training+models+with+TensorFlow+%26+Keras;Automating+real-world+workflows;Designing+agents%2C+APIs+and+production+software" />
 
-**AI Engineer · Automation Developer · Full-Stack Builder**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=900&center=true&vCenter=true&width=620&color=6E7681&lines=Building+AI-powered+systems;Automating+real-world+workflows;Designing+agents%2C+APIs+and+production+software" />
+<p>
+<a href="https://www.joudjulius.co.za/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square" /></a>
+<a href="https://www.linkedin.com/in/mohammad-joud-julius-a56299212/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/judejulius"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-<br/><br/>
+---
 
-[![Website](https://img.shields.io/badge/joudjulius.co.za-111111?style=flat-square&logo=google-chrome&logoColor=white)](https://www.joudjulius.co.za/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-joud-julius-a56299212/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/judejulius)
+## About Me
 
-</div>
+I'm an **AI and Automation Developer** building intelligent systems that move beyond notebooks and demos into production software.
 
-<br/>
+I work across machine learning, backend engineering, AI agents, and modern web development — not just adding a model to an app, but designing the full system around it: architecture, data pipelines, APIs, agent workflows, and the infrastructure that keeps it running.
 
-I build intelligent systems that make it out of the notebook — deep learning models, autonomous agents, and the automation and backend engineering that turn them into software people actually use.
-
-My interest isn't bolting an LLM onto an app. It's designing the whole system around it: model architecture, data pipelines, APIs, agent workflows, deployment, and the monitoring that keeps it honest.
-
-<br/>
+---
 
 ## What I Build
 
-**AI** — TensorFlow/Keras deep learning, reinforcement learning agents, LLM applications, tool-using agents, retrieval systems, inference APIs
+### Artificial Intelligence
+**Deep learning and agentic systems designed for real usage, not just demos.**
 
-**Automation** — Business process automation, agent orchestration, event-driven workflows, data pipelines, internal tooling
+- Deep learning systems with TensorFlow and Keras
+- Reinforcement learning agents
+- LLM-powered applications and tool-using agents
+- Retrieval and knowledge systems
+- Model inference APIs and custom ML pipelines
 
-**Engineering** — FastAPI backends, React + TypeScript frontends, Dockerized services, Postgres/MongoDB, local-first applications
+### Automation
+**Systems that remove repetitive work and connect disconnected processes.**
 
-<br/>
+- Business process automation and internal tooling
+- API integrations and agent orchestration
+- Event-driven and scheduled workflows
+- Automated data pipelines
+- AI-assisted decision systems
 
-## Stack
+### Software Engineering
+**The engineering that AI systems still need underneath them.**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,nodejs,react,typescript&theme=light" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,linux,git,github&theme=light" />
-</p>
+- FastAPI backends and REST APIs
+- React + TypeScript applications
+- Database-backed systems (PostgreSQL, MongoDB)
+- Dockerized, production-ready services
+- Authentication, architecture, and local-first software
 
-Also working with `Keras` · `LangChain` · `Reflex`
+---
 
-<br/>
+## Philosophy
 
-## How I Work
+**Build for the problem.** Technology should follow the problem, not the other way around.
 
-**Build for the problem.** Technology follows the problem, not the other way around.
+**AI should provide real value.** Adding an LLM doesn't automatically make an application intelligent — it should reduce complexity, automate meaningful work, or enable something previously impractical.
 
-**AI has to earn its place.** It should reduce complexity, automate meaningful work, or enable something that wasn't practical before.
+**Production over demos.** The model is only one part of the pipeline:
 
-**Production over demos.** The model is one step in a chain that runs data → model → evaluation → API → application → deployment → monitoring. I care about all of it.
+```
+Data → Model → Evaluation → API → Application → Deployment → Monitoring
+```
 
-**Keep it understandable.** Complexity should exist because the problem demands it, not because the architecture looks impressive.
+**Keep systems understandable.** Complexity should exist because the problem requires it — not because the architecture looks impressive.
 
-<br/>
+---
+
+## Technical Stack
+
+**AI / ML:** TensorFlow · Keras · Deep Learning · Reinforcement Learning · LangChain · LLMs  
+**Backend:** Python · FastAPI · Node.js · REST APIs · PostgreSQL · MongoDB  
+**Frontend:** React · TypeScript · JavaScript · Reflex  
+**Infrastructure:** Docker · Git · GitHub · Linux
+
+---
 
 ## Currently Exploring
 
-Multi-agent systems · Reinforcement learning · LLM tool use · Agentic workflows · Human-in-the-loop design · AI-powered developer tooling
+`Autonomous AI agents` `Multi-agent systems` `Reinforcement learning` `LLM tool use` `Agentic workflows` `Human-in-the-loop systems` `Local-first applications`
 
-<br/>
+---
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=judejulius&show_icons=true&hide_border=true&count_private=true&bg_color=0f172a&title_color=94A3B8&text_color=CBD5E1&icon_color=38BDF8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judejulius&layout=compact&hide_border=true&bg_color=0f172a&title_color=94A3B8&text_color=CBD5E1" height="165" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=judejulius&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=6E7681&text_color=8B949E&icon_color=6E7681" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judejulius&layout=compact&hide_border=true&bg_color=00000000&title_color=6E7681&text_color=8B949E" />
-
-</div>
-
-<br/>
+---
 
 ## Let's Connect
 
-Open to collaborating on AI systems, automation platforms, agents, developer tools, and technically ambitious software.
+I'm interested in collaborating on AI systems, automation platforms, agents, developer tools, and technically ambitious software.
 
 **[Website](https://www.joudjulius.co.za/)** · **[LinkedIn](https://www.linkedin.com/in/mohammad-joud-julius-a56299212/)** · **[GitHub](https://github.com/judejulius)**
 
-<br/>
-
-<div align="center">
-<sub>Build useful things. Automate the boring parts. Make intelligence practical.</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=100&section=footer" />
