@@ -4,11 +4,17 @@
 
 ### AI Engineer · Automation Developer · Full-Stack Builder
 
-**Building intelligent systems that turn real-world problems into reliable software.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&center=true&vCenter=true&width=700&lines=Building+AI-powered+systems;Automating+real-world+workflows;Training+models+with+TensorFlow+%26+Keras;Designing+agents%2C+APIs+and+production+software" />
+
+<br/>
 
 [![Website](https://img.shields.io/badge/Website-joudjulius.co.za-111111?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://www.joudjulius.co.za/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Joud_Julius-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammad-joud-julius-a56299212/)
 [![GitHub](https://img.shields.io/badge/GitHub-judejulius-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/judejulius)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,typescript,javascript,nodejs,docker,mongodb,postgres,git,github,linux" />
 
 </div>
 
@@ -20,36 +26,17 @@ I'm an **AI and Automation Developer** focused on building intelligent, producti
 
 I work across **machine learning, deep learning, automation, backend engineering, AI agents, and modern web development**.
 
-My focus is not simply adding AI to applications. I enjoy designing the full system around it — from model architecture and data pipelines to APIs, agent workflows, automation, integrations, and user-facing applications.
+My focus is not simply adding AI to applications. I enjoy designing the full system around it — from model architecture and data pipelines to APIs, agent workflows, integrations, automation, and user-facing applications.
 
-<div align="center">
-
-### AI • Automation • Machine Learning • Full-Stack Systems
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&center=true&vCenter=true&width=700&lines=Building+AI-powered+systems;Automating+real-world+workflows;Training+models+with+TensorFlow+%26+Keras;Designing+agents%2C+APIs+and+production+software" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,typescript,nodejs,docker,mongodb,postgres,linux,git,github" />
-
-<br/><br/>
-
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-111111?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full--Stack%20Systems-111111?style=for-the-badge)
-
-</div>
-
+I care about building systems that are useful, maintainable, and capable of moving beyond prototypes into real-world software.
 
 ---
 
-# What I Build
+## What I Build
 
 ### Artificial Intelligence
 
-I build AI systems designed to move beyond notebooks and demos into real applications.
+I build AI systems designed to move beyond notebooks and demos into usable applications.
 
 * Deep learning systems with TensorFlow and Keras
 * Reinforcement learning agents
@@ -57,8 +44,7 @@ I build AI systems designed to move beyond notebooks and demos into real applica
 * Tool-using AI agents
 * Retrieval and knowledge systems
 * Model inference APIs
-* AI-assisted workflows
-* Custom ML pipelines
+* Custom machine learning pipelines
 
 ### Automation
 
@@ -75,7 +61,7 @@ I design systems that reduce repetitive work and connect otherwise disconnected 
 
 ### Software Engineering
 
-AI systems need strong engineering underneath them.
+AI systems still need strong engineering underneath them.
 
 * FastAPI backends
 * REST APIs
@@ -89,9 +75,9 @@ AI systems need strong engineering underneath them.
 
 ---
 
-# Technology Stack
+## Technology Stack
 
-### AI / Machine Learning
+### AI & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,python" />
@@ -102,10 +88,10 @@ AI systems need strong engineering underneath them.
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mongodb,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mongodb,postgres" />
 </p>
 
-`Python` · `FastAPI` · `Node.js` · `REST APIs` · `MongoDB` · `PostgreSQL` · `Redis`
+`Python` · `FastAPI` · `Node.js` · `REST APIs` · `MongoDB` · `PostgreSQL`
 
 ### Frontend
 
@@ -125,7 +111,7 @@ AI systems need strong engineering underneath them.
 
 ---
 
-# Engineering Philosophy
+## Engineering Philosophy
 
 ### Build for the problem
 
@@ -142,22 +128,22 @@ AI should reduce complexity, automate meaningful work, improve decisions, or ena
 The model is only one part of an AI system.
 
 ```text
-data
+Data
   ↓
-model
+Model
   ↓
-evaluation
+Evaluation
   ↓
 API
   ↓
-application
+Application
   ↓
-deployment
+Deployment
   ↓
-monitoring
+Monitoring
 ```
 
-I care about the entire pipeline.
+I care about the entire pipeline, not just the model.
 
 ### Keep systems understandable
 
@@ -167,9 +153,7 @@ Complexity should exist because the problem requires it — not because the arch
 
 ---
 
-# Current Interests
-
-I'm particularly interested in:
+## Current Interests
 
 * Autonomous AI agents
 * Multi-agent systems
@@ -185,7 +169,7 @@ I'm particularly interested in:
 
 ---
 
-# GitHub
+## GitHub Activity
 
 <div align="center">
 
@@ -197,15 +181,13 @@ I'm particularly interested in:
 
 ---
 
-# Let's Connect
+## Let's Connect
 
-I'm interested in collaborating on:
+I'm interested in collaborating on **AI systems, machine learning, automation platforms, AI agents, developer tools, and technically ambitious software**.
 
-**AI systems · Machine learning · Automation platforms · AI agents · Developer tools · Full-stack products**
-
-🌐 [joudjulius.co.za](https://www.joudjulius.co.za/)
-💼 [LinkedIn](https://www.linkedin.com/in/mohammad-joud-julius-a56299212/)
-💻 [GitHub](https://github.com/judejulius)
+[Website](https://www.joudjulius.co.za/)
+[LinkedIn](https://www.linkedin.com/in/mohammad-joud-julius-a56299212/)
+[GitHub](https://github.com/judejulius)
 
 ---
 
