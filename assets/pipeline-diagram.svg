@@ -45,17 +45,17 @@
 
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="600" text-anchor="middle">
       <rect class="node n1" x="79" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
-      <text class="lbl n1" x="144" y="273">DATA</text>
+      <text class="lbl n1" x="144" y="273" fill="#9FB6C2">DATA</text>
       <rect class="node n2" x="231" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
-      <text class="lbl n2" x="296" y="273">MODEL</text>
+      <text class="lbl n2" x="296" y="273" fill="#9FB6C2">MODEL</text>
       <rect class="node n3" x="383" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
-      <text class="lbl n3" x="448" y="273">EVAL</text>
+      <text class="lbl n3" x="448" y="273" fill="#9FB6C2">EVAL</text>
       <rect class="node n4" x="535" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
-      <text class="lbl n4" x="600" y="273">API</text>
+      <text class="lbl n4" x="600" y="273" fill="#9FB6C2">API</text>
       <rect class="node n5" x="687" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
-      <text class="lbl n5" x="752" y="273">APP</text>
+      <text class="lbl n5" x="752" y="273" fill="#9FB6C2">APP</text>
       <rect class="node n6" x="839" y="242" width="130" height="52" rx="6" fill="#0F2331" stroke="#2A4A5C" stroke-width="1.5"></rect>
-      <text class="lbl n6" x="904" y="273">DEPLOY</text>
+      <text class="lbl n6" x="904" y="273" fill="#9FB6C2">DEPLOY</text>
       <rect class="node n7" x="991" y="242" width="130" height="52" rx="6" fill="#12222B" stroke="#E8963C" stroke-width="1.5"></rect>
       <text x="1056" y="273" fill="#E8963C">MONITOR</text>
     </g>
