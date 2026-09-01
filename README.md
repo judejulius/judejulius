@@ -16,16 +16,16 @@
 
 ## About Me
 
-I'm an **AI and Automation Developer** based in Cape Town, South Africa.
+I'm an **AI and Automation Developer** focused on building intelligent, production-ready systems.
 
-I build systems at the intersection of **artificial intelligence, machine learning, automation, backend engineering, and modern web development**.
+I work across **machine learning, deep learning, automation, backend engineering, AI agents, and modern web development**.
 
-My focus is not simply adding AI to applications — I enjoy designing the infrastructure around it: model pipelines, APIs, agent workflows, automation systems, data processing, integrations, and production-facing interfaces.
-
-I primarily work with **Python, TensorFlow/Keras, FastAPI, JavaScript/TypeScript, React, LangChain, and modern LLM tooling**.
+My focus is not simply adding AI to applications. I enjoy designing the full system around it — from model architecture and data pipelines to APIs, agent workflows, automation, integrations, and user-facing applications.
 
 ```python
 joud = {
+    "role": "AI & Automation Developer",
+
     "focus": [
         "AI Engineering",
         "Machine Learning",
@@ -33,81 +33,30 @@ joud = {
         "AI Agents",
         "Full-Stack Systems"
     ],
-    "ml": [
+
+    "machine_learning": [
         "TensorFlow",
         "Keras",
         "Deep Learning",
         "Reinforcement Learning"
     ],
+
     "backend": [
         "Python",
         "FastAPI",
         "Node.js"
     ],
+
     "frontend": [
         "React",
         "JavaScript",
         "TypeScript",
         "Reflex"
     ],
-    "currently_building": "systems that make AI genuinely useful"
+
+    "goal": "Build intelligent systems that are actually useful"
 }
 ```
-
----
-
-# Featured Project
-
-## Take-Home
-
-### Local-first pay-cycle budgeting for Android and the web
-
-A budgeting application built around how people actually get paid rather than forcing finances into calendar months.
-
-Take-Home calculates what is genuinely available after salary, variable income, debit orders, recurring expenses, and once-off costs across the user's actual **pay cycle**.
-
-### What makes it different
-
-* **Local-first architecture** — core functionality works without accounts or permanent internet access
-* **Pay-cycle based calculations** instead of traditional calendar-month budgeting
-* **Offline IndexedDB persistence**
-* **Android application via Capacitor**
-* **Optional self-hosted private synchronization**
-* **Historical financial state preservation**
-* **Recurring expense and debit-order lifecycle tracking**
-* **Native device notifications**
-* **Portable JSON backup and restoration**
-* **Optional AI-assisted WhatsApp shift extraction**
-* **OpenAI and Anthropic provider support**
-
-### Architecture
-
-```text
-                    Android / Browser
-                           │
-                           ▼
-                      React Client
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-   Calculation Engine   IndexedDB     Notifications
-          │                │
-          │                └──── JSON Backup
-          │
-          └──── Optional Private Sync
-                           │
-                           ▼
-                     Express API
-                      /        \
-                     ▼          ▼
-                 MongoDB    AI Providers
-                           OpenAI / Anthropic
-```
-
-**Stack:** React · TypeScript · Node.js · Express · MongoDB · Dexie · Capacitor · Docker
-
-[View Take-Home →](https://github.com/judejulius/expense_app)
 
 ---
 
@@ -115,40 +64,43 @@ Take-Home calculates what is genuinely available after salary, variable income, 
 
 ### Artificial Intelligence
 
-Production-focused AI systems rather than isolated model demos.
+I build AI systems designed to move beyond notebooks and demos into real applications.
 
-* Deep learning systems with TensorFlow/Keras
+* Deep learning systems with TensorFlow and Keras
 * Reinforcement learning agents
 * LLM-powered applications
-* AI agents and tool-using systems
-* Retrieval and knowledge pipelines
+* Tool-using AI agents
+* Retrieval and knowledge systems
 * Model inference APIs
-* AI-assisted automation
+* AI-assisted workflows
+* Custom ML pipelines
 
 ### Automation
 
-Systems designed to remove repetitive operational work.
+I design systems that reduce repetitive work and connect otherwise disconnected processes.
 
 * Business process automation
 * API integrations
-* Event-driven workflows
 * Agent orchestration
-* Data pipelines
-* Scheduled and conditional automation
+* Event-driven workflows
+* Automated data pipelines
+* Scheduled and conditional workflows
 * Internal tooling
+* AI-assisted decision systems
 
 ### Software Engineering
 
-AI products still need solid software underneath them.
+AI systems need strong engineering underneath them.
 
 * FastAPI backends
 * REST APIs
 * React applications
 * TypeScript systems
-* Authentication and application architecture
-* Dockerized services
 * Database-backed applications
+* Dockerized services
+* Authentication and application architecture
 * Local-first software
+* Production integrations
 
 ---
 
@@ -194,19 +146,39 @@ AI products still need solid software underneath them.
 
 Technology should follow the problem, not the other way around.
 
-### AI must provide measurable value
+### AI should provide real value
 
-An application doesn't become better because an LLM was added to it. AI should reduce complexity, improve decisions, automate meaningful work, or enable something that otherwise wasn't practical.
+Adding an LLM does not automatically make an application intelligent.
 
-### Production > Demo
+AI should reduce complexity, automate meaningful work, improve decisions, or enable capabilities that were previously impractical.
 
-I care about the systems surrounding the model just as much as the model itself:
+### Production over demos
 
-`architecture → data → training → APIs → deployment → monitoring → user experience`
+The model is only one part of an AI system.
 
-### Keep users in control
+```text
+data
+  ↓
+model
+  ↓
+evaluation
+  ↓
+API
+  ↓
+application
+  ↓
+deployment
+  ↓
+monitoring
+```
 
-Especially when working with personal data or AI-driven decisions, systems should remain understandable, reversible, and controllable by the user.
+I care about the entire pipeline.
+
+### Keep systems understandable
+
+Intelligent systems should remain maintainable, observable, and controllable.
+
+Complexity should exist because the problem requires it — not because the architecture looks impressive.
 
 ---
 
@@ -215,12 +187,14 @@ Especially when working with personal data or AI-driven decisions, systems shoul
 I'm particularly interested in:
 
 * Autonomous AI agents
+* Multi-agent systems
 * Reinforcement learning
-* AI workflow orchestration
-* TensorFlow/Keras research
+* TensorFlow / Keras research
 * LLM tool use
+* Agentic workflows
+* AI orchestration
+* Human-in-the-loop systems
 * Local-first applications
-* Human-in-the-loop AI systems
 * AI-powered developer tooling
 * Intelligent business automation
 
@@ -240,7 +214,9 @@ I'm particularly interested in:
 
 # Let's Connect
 
-I'm interested in collaborating on **AI systems, automation platforms, machine learning projects, developer tools, and technically ambitious software**.
+I'm interested in collaborating on:
+
+**AI systems · Machine learning · Automation platforms · AI agents · Developer tools · Full-stack products**
 
 🌐 [joudjulius.co.za](https://www.joudjulius.co.za/)
 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-joud-julius-a56299212/)
