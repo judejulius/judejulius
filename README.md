@@ -22,41 +22,26 @@ I work across **machine learning, deep learning, automation, backend engineering
 
 My focus is not simply adding AI to applications. I enjoy designing the full system around it — from model architecture and data pipelines to APIs, agent workflows, automation, integrations, and user-facing applications.
 
-```python
-joud = {
-    "role": "AI & Automation Developer",
+<div align="center">
 
-    "focus": [
-        "AI Engineering",
-        "Machine Learning",
-        "Automation",
-        "AI Agents",
-        "Full-Stack Systems"
-    ],
+### AI • Automation • Machine Learning • Full-Stack Systems
 
-    "machine_learning": [
-        "TensorFlow",
-        "Keras",
-        "Deep Learning",
-        "Reinforcement Learning"
-    ],
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&center=true&vCenter=true&width=700&lines=Building+AI-powered+systems;Automating+real-world+workflows;Training+models+with+TensorFlow+%26+Keras;Designing+agents%2C+APIs+and+production+software" />
 
-    "backend": [
-        "Python",
-        "FastAPI",
-        "Node.js"
-    ],
+<br/>
 
-    "frontend": [
-        "React",
-        "JavaScript",
-        "TypeScript",
-        "Reflex"
-    ],
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,typescript,nodejs,docker,mongodb,postgres,linux,git,github" />
 
-    "goal": "Build intelligent systems that are actually useful"
-}
-```
+<br/><br/>
+
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-111111?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full--Stack%20Systems-111111?style=for-the-badge)
+
+</div>
+
 
 ---
 
