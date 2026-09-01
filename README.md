@@ -12,12 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Joud_Julius-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammad-joud-julius-a56299212/)
 [![GitHub](https://img.shields.io/badge/GitHub-judejulius-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/judejulius)
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,typescript,javascript,nodejs,docker,mongodb,postgres,git,github,linux" />
-
-</div>
-
 ---
 
 ## About Me
