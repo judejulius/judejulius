@@ -28,7 +28,6 @@
 </p>
 
 <p>
-<a href="https://www.joudjulius.co.za/"><img src="https://img.shields.io/badge/Portfolio-joudjulius.co.za-E8963C?style=for-the-badge&labelColor=0B1A24" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/mohammad-joud-julius-a56299212/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6FA8C9?style=for-the-badge&labelColor=0B1A24" alt="LinkedIn" /></a>
 <a href="https://github.com/judejulius?tab=followers"><img src="https://img.shields.io/github/followers/judejulius?style=for-the-badge&labelColor=0B1A24&color=2A4A5C" alt="Followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=judejulius&style=for-the-badge&color=2A4A5C&label=VIEWS" alt="Profile views" />
@@ -124,7 +123,7 @@ I'm always interested in collaborating on AI systems, automation, or anything wi
 
 <div align="center">
 
-[**Portfolio**](https://www.joudjulius.co.za/) · [**LinkedIn**](https://www.linkedin.com/in/mohammad-joud-julius-a56299212/) · [**GitHub**](https://github.com/judejulius)
+ [**LinkedIn**](https://www.linkedin.com/in/mohammad-joud-julius-a56299212/) · [**GitHub**](https://github.com/judejulius)
 
 <br/>
 
