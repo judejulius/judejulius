@@ -108,13 +108,8 @@ Each stage in the banner is a real part of how I work, not a slide.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=judejulius&show_icons=true&hide_border=true&count_private=true&bg_color=0B1A24&title_color=E8963C&text_color=DCE6EA&icon_color=6FA8C9" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judejulius&layout=compact&hide_border=true&bg_color=0B1A24&title_color=E8963C&text_color=DCE6EA" height="165" alt="Most used languages" />
-
 <img src="https://streak-stats.demolab.com?user=judejulius&hide_border=true&background=0B1A24&stroke=2A4A5C&ring=E8963C&fire=E8963C&currStreakLabel=E8963C&sideLabels=DCE6EA&currStreakNum=DCE6EA&sideNums=DCE6EA&dates=8AA4B2" height="165" alt="Contribution streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=judejulius&theme=darkhub&no-frame=true&no-bg=true&column=3&row=2&margin-w=8&margin-h=8" height="165" alt="Trophies" />
 
-<img src="https://raw.githubusercontent.com/judejulius/judejulius/output/snake.svg" alt="Contribution graph snake animation" width="100%" />
 
 </div>
 
