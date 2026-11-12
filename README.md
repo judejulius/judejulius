@@ -37,7 +37,9 @@
 
 
 ---
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## Hey, I'm Joud
 
 I build AI and automation systems that are meant to run, not just demo. The model is usually the easy part — the work is everything around it: the data feeding it, the API serving it, the app someone actually uses, and the deployment and monitoring that keep it alive after launch.
